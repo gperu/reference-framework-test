@@ -19,12 +19,21 @@ Repository: <https://github.com/EVERSE-ResearchSoftware/reference-framework>
 
 ## B. AI webinar (10 Nov)
 
+- Held on 10 Nov with Michael and Carlos, presenting on behalf of Faruk; 62 participants at peak
+- Went well, with good questions from the audience; Carlos can say more
+
 ## C. 24 Nov AI session (Stakeholders Event)
+
+- Michelle Barker keynote (09:20–09:40), then a town hall (09:40–10:30) moderated by Caterina Doglioni, with Michelle, Guido Juckeland and Dan Katz on the panel
+- Message: research software engineers remain essential in the AI era
+- Output: about a page of recommendations feeding the EVERSE policy brief
 
 ## D. Reference Framework
 
-- <https://github.com/EVERSE-ResearchSoftware/reference-framework/pull/47>
-- <https://github.com/EVERSE-ResearchSoftware/reference-framework/pull/48>
+- Giacomo and Thomas went through the RF section by section on 21 Oct and listed the fixes needed before the end of the project; publication is aimed at end of January 2027
+- Thomas has joined the deRSE26 post-proceedings paper on the RF as co-author; the revision, based on RF v3, is due 13 Nov
+- Thomas has two PRs open: a citation file, and good-enough practices and examples for each ISO quality dimension, which also feeds the paper
+- Giacomo and Thomas will catch up after this call
 
 ## E. Fotis's AI statement
 
